@@ -1,4 +1,4 @@
-# Time Series (Traffic Volume) Project
+# Time Series Project (Traffic Volume Forecasting) 
 ## Project Summary:
 This project aims to forecast the traffic volume in Metro Interstate using time series analysis techniques. The dataset used in this project consists of hourly traffic volume data collected from a particular section of the interstate from 2012 to 2018.
 
